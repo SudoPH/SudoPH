@@ -5,7 +5,6 @@ Minecraft plugin developer focused on building open-source plugins for Paper.
 ## About Me
 
 - Minecraft Plugin Developer
-- Java Developer
 - Paper Plugin Development
 - Open Source Enthusiast
 
