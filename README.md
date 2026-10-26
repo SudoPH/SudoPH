@@ -1,37 +1,46 @@
-# Hi, I'm SudoPH
+# SudoPH
 
-Minecraft plugin developer focused on building open-source plugins for Paper.
+### Minecraft Plugin Developer · PaperMC · Open Source
+
+I build Minecraft plugins focused on gameplay, performance, and server customization. I enjoy creating tools that help server owners deliver better experiences to their players.
+
+---
 
 ## About Me
 
-- Minecraft Plugin Developer
-- Paper Plugin Development
-- Open Source Enthusiast
+- Developing plugins for **Minecraft Paper servers**
+- Building open-source projects with **Java and Maven**
+- Focused on clean code, maintainability, and practical features
+- Always exploring new ideas for the Minecraft ecosystem
 
-## Technologies
+## Tech Stack
 
-- Java
-- Paper
-- Maven
-- Git
-- GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PaperMC-212121?style=for-the-badge&logo=papermc&logoColor=white" alt="PaperMC" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-## Projects
+## Featured Projects
 
-I develop open-source plugins for Paper servers.
+Explore my repositories for Minecraft plugins, experiments, and other open-source projects.
 
-You can find my projects in my repositories.
-
-## Development
-
-My plugins are built with Maven and are designed specifically for the Paper server platform.
+**[Browse all repositories →](https://github.com/SudoPH?tab=repositories)**
 
 ## Open Source
 
-My public projects are open source and available on GitHub.
+My projects are publicly available on GitHub. Feel free to explore the code, report issues, suggest improvements, or contribute in accordance with each project's license.
 
-Feel free to explore, use, contribute to, or fork my projects according to their respective licenses.
+---
 
-## Contact
+## Connect
 
-GitHub: [@SudoPH](https://github.com/SudoPH)
+<p align="left">
+  <a href="https://github.com/SudoPH">
+    <img src="https://img.shields.io/badge/GitHub-SudoPH-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+</p>
+
+*Building plugins. Improving gameplay. Supporting open source.*
